@@ -1,7 +1,7 @@
-from gui import Pinecone
+from gui import PineconeApp
 
 def main():
-	app = Pinecone()
+	app = PineconeApp()
 	app.run()
 
 if __name__ == '__main__':
